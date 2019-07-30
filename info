@@ -1,0 +1,4 @@
+put request
+gs://signed-url-testing bucket
+lasts for 5m
+plain/text content-type
