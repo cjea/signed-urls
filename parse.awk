@@ -2,11 +2,11 @@
 # parse a configuration into a signed url for gcs bucket
 # Example config:
 #
-#   put request
-#   gs://foo bucket
+#   allow put request
+#   to gs://foo
 #   private key is /keypath
 #   lasts for 5m
-#   plain/text content type
+#   content type is plain/text
 #
 # outputs the string:
 #
